@@ -2,10 +2,12 @@
 
 // TODO: Create an array of questions for user input
 
-const fs = require("fs");
-const path = require("path");
-const generateMarkdown = require("./utils/generateMarkdown");
+const fs = require("fs"); // file system
+const path = require("path"); // path
+const generateMarkdown = require("./utils/generateMarkdown"); // generate markdown
+
 const questions = [
+  // questions
   {
     type: "input",
     name: "title",
