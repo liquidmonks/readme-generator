@@ -60,6 +60,7 @@ ${renderLicenseSection(data.license)}
 ${data.contribution}
 
 ## [Test](#table-of-contents)
+To run tests, run the following command:
 ${data.test}
 
 ## [Questions](#table-of-contents)
