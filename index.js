@@ -91,6 +91,14 @@ const questions = [
     name: "license",
     message: "Please select a license.",
     choices: ["MIT", "Apache", "GPL", "BSD", "None"],
+    validate: (licenseInput) => {
+      if (licenseInput) {
+        return true;
+      } else {
+        console.log("Please select a license!");
+        return false;
+      }
+    },
   },
   {
     type: "input",
