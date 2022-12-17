@@ -117,6 +117,14 @@ const questions = [
     type: "input",
     name: "email",
     message: "Please provide your email address.",
+    validate: (emailInput) => {
+      if (emailInput) {
+        return true;
+      } else {
+        console.log("Please enter your email address!");
+        return false;
+      }
+    },
   },
 ];
 
