@@ -63,26 +63,24 @@ const questions = [
     message: "Please provide your email address.",
   },
 ];
-const inquirer = require("inquirer");
-
-inquirer.prompt([,]).then((answers) => {
-  console.log(answers);
-  writeToFile("README.md", answers);
-});
 
 // TODO: Create a function to write README file
-fs.writeFile("README.md", generateMarkdown(answers), (err) => {
-  if (err) throw err;
-  console.log("README.md created!");
-});
+function writeFile(fileName, data) {
+  fs.writeFile(fileName, data, (err) => {
+    if (err) throw err;
+    console.log("README.md created!");
+  });
+}
 
 // TODO: Create a function to initialize app
 function init() {
-  inquirer.prompt(questions).then((answers) => {
-    console.log(answers);
-    writeToFile("README.md", answers);
+  inquirer.prompt(questions).then((input) => {
+    fs.writeFile("README.md", generateMarkdown(input), (err) => {
+      if (err) throw err;
+      console.log("README.md created!");
+    });
   });
 }
 
 // Function call to initialize app
-init();
+init(); // init
