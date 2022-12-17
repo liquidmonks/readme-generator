@@ -51,6 +51,14 @@ const questions = [
     type: "input",
     name: "usage",
     message: "Please provide usage information.",
+    validate: (usageInput) => {
+      if (usageInput) {
+        return true;
+      } else {
+        console.log("Please enter usage information!");
+        return false;
+      }
+    },
   },
   {
     type: "input",
