@@ -49,6 +49,7 @@ ${data.description}
 
 
 ## [Installation](#table-of-contents)
+To install necessary dependencies, run the following command:
 ${data.installation}
 
 ## [Usage](#table-of-contents)
@@ -62,8 +63,7 @@ ${data.contribution}
 ${data.test}
 
 ## [Questions](#table-of-contents)
-If you have any questions, please contact me at ${data.email} or visit my GitHub page at [${data.github}]
-                         
+If you have any questions, please contact me at ${data.email} or visit my GitHub page at [${data.github}]       
 `;
 }
 
