@@ -38,6 +38,14 @@ const questions = [
     type: "input",
     name: "installation",
     message: "Please provide installation instructions.",
+    validate: (installationInput) => {
+      if (installationInput) {
+        return true;
+      } else {
+        console.log("Please enter installation instructions!");
+        return false;
+      }
+    },
   },
   {
     type: "input",
