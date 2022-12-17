@@ -77,6 +77,14 @@ const questions = [
     type: "input",
     name: "test",
     message: "Please provide test instructions.",
+    validate: (testInput) => {
+      if (testInput) {
+        return true;
+      } else {
+        console.log("Please enter test instructions!");
+        return false;
+      }
+    },
   },
   {
     type: "list",
