@@ -64,6 +64,14 @@ const questions = [
     type: "input",
     name: "contribution",
     message: "Please provide contribution guidelines.",
+    validate: (contributionInput) => {
+      if (contributionInput) {
+        return true;
+      } else {
+        console.log("Please enter contribution guidelines!");
+        return false;
+      }
+    },
   },
   {
     type: "input",
