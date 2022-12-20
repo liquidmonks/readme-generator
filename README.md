@@ -43,7 +43,10 @@ ________
 
 ![screenshot](https://github.com/liquidmonks/readme-generator/blob/main/assets/media/screenshot.gif)
 
-https://github.com/liquidmonks/readme-generator/blob/main/assets/media/tutorial.mp4
+https://user-images.githubusercontent.com/114820394/208779637-81c51cba-9104-485b-9a82-c12792dd717a.mp4
+
+
+
 
 ## 🔗 Live Site Link
 [![Live Site](https://img.shields.io/badge/livesite-click-orange)](https://https://liquidmonks.github.io/weather-dashboard//)
