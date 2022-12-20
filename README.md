@@ -42,7 +42,8 @@ ________
 ## Visual Tutorial
 
 ![screenshot](https://github.com/liquidmonks/readme-generator/blob/main/assets/media/screenshot.gif)
-![screenshot](https://github.com/liquidmonks/readme-generator/blob/main/assets/media/tutorial.mp4)
+
+https://github.com/liquidmonks/readme-generator/blob/main/assets/media/tutorial.mp4
 
 ## 🔗 Live Site Link
 [![Live Site](https://img.shields.io/badge/livesite-click-orange)](https://https://liquidmonks.github.io/weather-dashboard//)
