@@ -42,9 +42,10 @@ ________
 ## Visual Tutorial
 
 ![screenshot](https://github.com/liquidmonks/readme-generator/blob/main/assets/media/screenshot.gif)
-![Video Tutorial](https://github.com/liquidmonks/readme-generator/blob/main/assets/media/tutorial.mp4)
+![screenshot](https://github.com/liquidmonks/readme-generator/blob/main/assets/media/screenshot.gif)
 
-[![Alternate Text]({https://github.com/liquidmonks/readme-generator/blob/main/assets/media/screenshot.gif})]({https://github.com/liquidmonks/readme-generator/blob/main/assets/media/tutorial.mp4} "Link Title")
+
+[![Alternate Text]({screenshot})]({https://github.com/liquidmonks/readme-generator/blob/main/assets/media/tutorial.mp4} "Link Title")
 
 ## 🔗 Live Site Link
 [![Live Site](https://img.shields.io/badge/livesite-click-orange)](https://https://liquidmonks.github.io/weather-dashboard//)
