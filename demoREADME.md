@@ -1,4 +1,4 @@
-# test 1
+# Project Name Here
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
@@ -13,31 +13,28 @@
 
 
 ## [Description](#table-of-contents)
-test 1
-### Screenshot
-![App Screenshot](./assets/images/screenshot.png)
-
+Description text here
 
 
 ## [Installation](#table-of-contents)
 To install necessary dependencies, run the following command:
-test 1
+installation instructions here
 
 
 ## [Usage](#table-of-contents)
-test 1
+usage information here
 ## [License](#license)     
     This project is licensed under the MIT license.
 
 
 ## [Contribution](#table-of-contents)
-test 1
+contribution guidelines here
 
 
 ## [Test](#table-of-contents)
 To run tests, run the following command:
-test 1
+test instructions here
 
 
 ## [Questions](#table-of-contents)
-If you have any questions, please contact me at test@gmail.com or visit my GitHub page at [test1]       
+If you have any questions, please contact me at email address here or visit my GitHub page at [GitHub username here]       
