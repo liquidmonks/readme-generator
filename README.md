@@ -1,8 +1,8 @@
-# readme gen
+# test 1
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
-
-## Table-of-Contents
+## Table-of-Contents  
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
@@ -11,24 +11,33 @@
 * [License](#license)
 * [Questions](#questions)
 
+
 ## [Description](#table-of-contents)
-it's a readme generator
+test 1
+### Screenshot
+![App Screenshot](./assets/images/screenshot.png)
+
 
 
 ## [Installation](#table-of-contents)
-do this and that
+To install necessary dependencies, run the following command:
+test 1
+
 
 ## [Usage](#table-of-contents)
-ok now
+test 1
 ## [License](#license)     
     This project is licensed under the MIT license.
 
+
 ## [Contribution](#table-of-contents)
-asdfds 
+test 1
+
 
 ## [Test](#table-of-contents)
-dfssdf 
+To run tests, run the following command:
+test 1
+
 
 ## [Questions](#table-of-contents)
-If you have any questions, please contact me at batman@aol.com or visit my GitHub page at [batman]
-                         
+If you have any questions, please contact me at test@gmail.com or visit my GitHub page at [test1]       

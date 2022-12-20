@@ -53,9 +53,6 @@ ${renderLicenseLink(data.license)}
 
 ## [Description](#table-of-contents)
 ${data.description}
-### Screenshot
-![App Screenshot](./assets/images/screenshot.png)
-
 
 
 ## [Installation](#table-of-contents)
